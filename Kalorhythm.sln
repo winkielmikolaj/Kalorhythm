@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalorhythm", "Kalorhythm\Kalorhythm\Kalorhythm.csproj", "{60A533E8-B9B1-40EB-BE17-47C614A2101E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalorhythm.Client", "Kalorhythm\Kalorhythm.Client\Kalorhythm.Client.csproj", "{65E5D98A-567F-41A2-9DBC-20F6577BDB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalorhythm.Domain", "Kalorhythm.Domain\Kalorhythm.Domain.csproj", "{55643FB5-C0F1-4B91-B9B2-53BE9FE930C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalorhythm.Application", "Kalorhythm.Application\Kalorhythm.Application.csproj", "{0B37A269-D333-4819-B0C9-7633EA132ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalorhythm.Infrastructure", "Kalorhythm.Infrastructure\Kalorhythm.Infrastructure.csproj", "{5A7E13CF-F560-4596-B8EE-9104911799FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A533E8-B9B1-40EB-BE17-47C614A2101E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A533E8-B9B1-40EB-BE17-47C614A2101E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A533E8-B9B1-40EB-BE17-47C614A2101E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A533E8-B9B1-40EB-BE17-47C614A2101E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E5D98A-567F-41A2-9DBC-20F6577BDB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E5D98A-567F-41A2-9DBC-20F6577BDB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E5D98A-567F-41A2-9DBC-20F6577BDB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E5D98A-567F-41A2-9DBC-20F6577BDB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55643FB5-C0F1-4B91-B9B2-53BE9FE930C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55643FB5-C0F1-4B91-B9B2-53BE9FE930C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55643FB5-C0F1-4B91-B9B2-53BE9FE930C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55643FB5-C0F1-4B91-B9B2-53BE9FE930C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B37A269-D333-4819-B0C9-7633EA132ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B37A269-D333-4819-B0C9-7633EA132ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B37A269-D333-4819-B0C9-7633EA132ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B37A269-D333-4819-B0C9-7633EA132ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7E13CF-F560-4596-B8EE-9104911799FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7E13CF-F560-4596-B8EE-9104911799FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7E13CF-F560-4596-B8EE-9104911799FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7E13CF-F560-4596-B8EE-9104911799FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7020310-A612-4260-801E-EDD88956DF11}
+	EndGlobalSection
+EndGlobal
