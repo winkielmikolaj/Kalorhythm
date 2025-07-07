@@ -1,4 +1,4 @@
-﻿namespace Kalorhythm.Application
+namespace Kalorhythm.Domain.Entities
 {
     public class Class1
     {

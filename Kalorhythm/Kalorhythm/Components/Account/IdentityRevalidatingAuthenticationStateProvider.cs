@@ -1,5 +1,5 @@
 using System.Security.Claims;
-using Kalorhythm.Data;
+using Kalorhythm.Infrastructure.Data;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Server;
 using Microsoft.AspNetCore.Identity;

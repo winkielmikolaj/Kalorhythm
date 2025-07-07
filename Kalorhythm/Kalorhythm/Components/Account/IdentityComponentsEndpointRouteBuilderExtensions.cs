@@ -2,7 +2,7 @@ using System.Security.Claims;
 using System.Text.Json;
 using Kalorhythm.Components.Account.Pages;
 using Kalorhythm.Components.Account.Pages.Manage;
-using Kalorhythm.Data;
+using Kalorhythm.Infrastructure.Data;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Http.Extensions;

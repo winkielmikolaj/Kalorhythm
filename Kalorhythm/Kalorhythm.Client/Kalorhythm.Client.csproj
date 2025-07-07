@@ -13,4 +13,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="9.0.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Kalorhythm.Application\Kalorhythm.Application.csproj" />
+    <ProjectReference Include="..\..\Kalorhythm.Domain\Kalorhythm.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

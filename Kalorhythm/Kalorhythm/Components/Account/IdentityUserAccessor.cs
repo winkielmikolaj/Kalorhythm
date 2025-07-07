@@ -1,4 +1,4 @@
-using Kalorhythm.Data;
+using Kalorhythm.Infrastructure.Data;
 using Microsoft.AspNetCore.Identity;
 
 namespace Kalorhythm.Components.Account
